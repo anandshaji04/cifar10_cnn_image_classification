@@ -12,7 +12,7 @@ The CIFAR-10 dataset is included in the Keras library. It contains 50,000 traini
 
 To run this project, you need:
 
-- Python (version >= 3.6)
+- Google Colab
 - Required libraries: TensorFlow, Keras, numpy, matplotlib
 
 ## Usage
